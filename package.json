@@ -1,0 +1,19 @@
+{
+  "name": "esel",
+  "version": "0.1.0",
+  "description": "Make DSL APIs easily",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git"
+  },
+  "keywords": [
+    "dsl",
+    "api"
+  ],
+  "author": "Alberto Gimeno <gimenete@gmail.com>",
+  "license": "MIT"
+}
